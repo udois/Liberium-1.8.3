@@ -4,7 +4,7 @@ Welcome to the Liberium 1.8.3 Source Code repository! 📂 The source code for v
 
 🔑 The password for the file is @udois 🔑
 
-If you have any questions or need assistance, feel free to contact me on Discord at udois_ or on Telegram at @udois_ 💬
+If you have any questions or need assistance, feel free to contact me on Discord at udois_ or on Telegram at @udois 💬
 
 🎉 Liberium-1.8.3 🎉
 
@@ -12,6 +12,6 @@ If you have any questions or need assistance, feel free to contact me on Discord
 
 🔑 Пароль от файла: @udois 🔑
 
-Если у вас есть вопросы или вам нужна помощь, не стесняйтесь обращаться ко мне в Discord по имени пользователя udois_ или в Telegram по @udois_ 💬
+Если у вас есть вопросы или вам нужна помощь, не стесняйтесь обращаться ко мне в Discord по имени пользователя udois_ или в Telegram по @udois 💬
 
 ![photo_2025-02-15_12-40-14 (2)](https://github.com/user-attachments/assets/ab96d1d1-d0f8-44f9-a932-43a6910c39bc)
