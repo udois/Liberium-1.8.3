@@ -11,3 +11,4 @@ Liberium-1.8.3
 Пароль от файла: @udois.
 
 Если у вас есть вопросы или вам нужна помощь, не стесняйтесь обращаться ко мне в Discord по имени пользователя udois_ или в Telegram по @udois_.
+![photo_2025-02-15_12-40-14 (2)](https://github.com/user-attachments/assets/945ec210-ce99-4d33-b4e6-5c8662ef62fa)
